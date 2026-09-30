@@ -2,8 +2,8 @@ students = []
 
 while True:
     print("\n===== STUDENT MANAGEMENT SYSTEM =====")
-    print("1. Add Student")
-    print("2. Display Students")
+    print("1. Add Student name ")
+    print("2. Display Students here")
     print("3. Search Student")
     print("4. Exit")
 
